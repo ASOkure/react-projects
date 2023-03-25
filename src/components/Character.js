@@ -23,4 +23,3 @@ function Character(character) {
   );
 }
 export default Character;
-Copy;
